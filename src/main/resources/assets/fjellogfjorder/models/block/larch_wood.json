@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "fjellogfjorder:block/larch_log",
+    "side": "fjellogfjorder:block/larch_log"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "anchorite": {
+    "sounds": [
+      {
+        "name": "fjellogfjorder:anchorite",
+        "stream": true
+      }
+    ]
+  }
+}

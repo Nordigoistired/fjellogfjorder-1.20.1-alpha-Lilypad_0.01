@@ -1,0 +1,26 @@
+{
+  "block.fjellogfjorder.ponderosa_log": "Ponderosa Log",
+  "block.fjellogfjorder.ponderosa_planks": "Ponderosa Planks",
+  "block.fjellogfjorder.ponderosa_needles": "Ponderosa Needles",
+  "block.fjellogfjorder.ponderosa_sapling": "Ponderosa Sapling",
+  "block.fjellogfjorder.ponderosa_wood": "Ponderosa Wood",
+  "block.fjellogfjorder.stripped_ponderosa_log": "Stripped Ponderosa Log",
+  "block.fjellogfjorder.stripped_ponderosa_wood": "Stripped Ponderosa Wood",
+
+  "block.fjellogfjorder.payaso": "Payaso",
+
+  "block.fjellogfjorder.larch_log": "Larch Log",
+  "block.fjellogfjorder.larch_wood": "Larch Wood",
+  "block.fjellogfjorder.stripped_larch_log": "Stripped Larch Log",
+  "block.fjellogfjorder.stripped_larch_wood": "Stripped Larch Wood",
+  "block.fjellogfjorder.larch_needles": "Larch Needles",
+  "block.fjellogfjorder.larch_sapling": "Larch Sapling",
+  "block.fjellogfjorder.larch_planks": "Larch Planks",
+
+  "item.fjellogfjorder.anchorite_record": "The Anchorite",
+  "item.fjellogfjorder.anchorite_record.desc": "Geotic - The Anchorite",
+
+  "item.fjellogfjorder.faen": "Faen",
+
+  "creativetab.mountains_and_fjords_tab": "Mountains and Fjords"
+}

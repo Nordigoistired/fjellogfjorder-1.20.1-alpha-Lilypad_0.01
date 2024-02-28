@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "fjellogfjorder:block/ponderosa_needles"
+  }
+}

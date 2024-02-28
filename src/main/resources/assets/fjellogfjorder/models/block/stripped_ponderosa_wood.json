@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "fjellogfjorder:block/stripped_ponderosa_log",
+    "side": "fjellogfjorder:block/stripped_ponderosa_log"
+  }
+}

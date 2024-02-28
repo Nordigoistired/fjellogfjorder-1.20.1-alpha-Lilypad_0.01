@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "fjellogfjorder:block/stripped_ponderosa_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "fjellogfjorder:block/stripped_ponderosa_wood"
+    },
+    "axis=z": {
+      "model": "fjellogfjorder:block/stripped_ponderosa_wood",
+      "x": 90
+    }
+  }
+}

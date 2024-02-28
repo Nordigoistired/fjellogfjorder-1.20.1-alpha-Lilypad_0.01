@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "fjellogfjorder:block/larch_sapling"
+  }
+}
